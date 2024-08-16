@@ -3,6 +3,11 @@
 ## Description
 This is a React Native project built using Expo. The project demonstrates the use of tabs, worker profile grid layout, and search/filter functionality.
 
+## Demo:
+
+![App Demo](assets/undefined-Imgur.mp4)
+
+
 ## Features
 - Tab Navigation with Welcome and Categories Screens
 - Worker Categories and Search
@@ -39,6 +44,6 @@ Link:-
 ```bash
 https://snack.expo.dev/@ajitesh_aarash/profile_viewer
 ```
-Demo Of the App
 
-![Demo of the App]((https://imgur.com/VJTWzcE))
+
+
