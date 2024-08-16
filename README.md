@@ -5,7 +5,7 @@ This is a React Native project built using Expo. The project demonstrates the us
 
 ## Demo:
 
-![App Demo](https://imgur.com/a/jQZs3ib)
+![App Demo](https://imgur.com/a/FZWMTdF)
 
 
 ## Features
