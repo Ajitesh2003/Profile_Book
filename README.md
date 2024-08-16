@@ -41,4 +41,4 @@ https://snack.expo.dev/@ajitesh_aarash/profile_viewer
 ```
 Demo Of the App
 
-![Demo of the App](https://i.imgur.com/VJTWzcE.mp4)
+![Demo of the App]((https://imgur.com/VJTWzcE))
