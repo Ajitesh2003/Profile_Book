@@ -40,6 +40,6 @@ Link:-
 https://snack.expo.dev/@ajitesh_aarash/profile_viewer
 ```
 Demo Of the App
-
+```bash
 ![Demo of the App](https://imgur.com/a/xQQh7bJ)
-
+```
