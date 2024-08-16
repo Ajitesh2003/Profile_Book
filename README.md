@@ -35,7 +35,7 @@ Technologies Used
 >> React Navigation
 >> Ionicons 
 
-##Link
+## Link
 copy the following link to your expo go App to watch it live 
 ```bash
 https://snack.expo.dev/@ajitesh_aarash/profile_viewer
