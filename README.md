@@ -3,11 +3,6 @@
 ## Description
 This is a React Native project built using Expo. The project demonstrates the use of tabs, worker profile grid layout, and search/filter functionality.
 
-## Demo:
-
-![App Demo](components/WhatsApp Image 2024-08-16 at 15.06.24.jpeg)
-
-
 ## Features
 - Tab Navigation with Welcome and Categories Screens
 - Worker Categories and Search
