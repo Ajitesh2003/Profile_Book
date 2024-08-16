@@ -5,7 +5,7 @@ This is a React Native project built using Expo. The project demonstrates the us
 
 ## Demo:
 
-![App Demo](https://imgur.com/a/FZWMTdF)
+![App Demo](components/WhatsApp Image 2024-08-16 at 15.06.24.jpeg)
 
 
 ## Features
