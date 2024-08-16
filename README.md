@@ -5,11 +5,7 @@ This is a React Native project built using Expo. The project demonstrates the us
 
 ## Demo:
 
-![App Demo](
-```
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/xQQh7bJ" data-context="false" ><a href="//imgur.com/a/xQQh7bJ"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-```
-)
+![App Demo](components/undefined-Imgur.mp4)
 
 
 ## Features
